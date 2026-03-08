@@ -16,7 +16,7 @@ const HomePage = (props: Props) => {
   return (
     <div>
       <div className="intro" id="home">
-        <h1 className="animate">Gamified Bilingual Sign Language Learning System for Hearing-Impaired Primary Students</h1>
+        <h1 className="animate">R/KURUWITA CENTRAL COLLEGE</h1>
         <p>Learn More</p>
       </div>
 
